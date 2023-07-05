@@ -1,0 +1,44 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Margherita",
+    "itemPrice": 199,
+    "itemDescription": "Classic cheese pizza with tomato sauce, mozzarella cheese, and oregano."
+  },
+  {
+    "itemId": 2,
+    "itemName": "Pepperoni",
+    "itemPrice": 249,
+    "itemDescription": "Pizza topped with spicy pepperoni, tomato sauce, and mozzarella cheese."
+  },
+  {
+    "itemId": 3,
+    "itemName": "Veggie Supreme",
+    "itemPrice": 299,
+    "itemDescription": "Loaded with assorted vegetables like bell peppers, mushrooms, onions, black olives, and sweet corn, along with tomato sauce and mozzarella cheese."
+  },
+  {
+    "itemId": 4,
+    "itemName": "Chicken Supreme",
+    "itemPrice": 349,
+    "itemDescription": "Pizza topped with grilled chicken, bell peppers, onions, black olives, and mozzarella cheese, finished with tomato sauce."
+  },
+  {
+    "itemId": 5,
+    "itemName": "Garlic Breadsticks",
+    "itemPrice": 99,
+    "itemDescription": "Freshly baked breadsticks with a garlic and herb seasoning, served with tangy marinara sauce."
+  },
+  {
+    "itemId": 6,
+    "itemName": "Chicken Wings",
+    "itemPrice": 199,
+    "itemDescription": "Tender and juicy chicken wings, available in various flavors like BBQ, Spicy, or Classic."
+  },
+  {
+    "itemId": 7,
+    "itemName": "Choco Lava Cake",
+    "itemPrice": 149,
+    "itemDescription": "Warm and gooey chocolate cake with a molten chocolate center, served with a scoop of vanilla ice cream."
+  }
+]

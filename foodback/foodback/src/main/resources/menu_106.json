@@ -1,0 +1,44 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Original Recipe Chicken",
+    "itemPrice": 199,
+    "itemDescription": "Signature fried chicken made with KFC's secret blend of 11 herbs and spices."
+  },
+  {
+    "itemId": 2,
+    "itemName": "Zinger Burger",
+    "itemPrice": 149,
+    "itemDescription": "Spicy chicken fillet, lettuce, mayo, and a soft bun, perfect for those who like it hot."
+  },
+  {
+    "itemId": 3,
+    "itemName": "Chicken Popcorn",
+    "itemPrice": 129,
+    "itemDescription": "Bite-sized chicken pieces with a crispy coating, perfect as a snack or side."
+  },
+  {
+    "itemId": 4,
+    "itemName": "Twister Wrap",
+    "itemPrice": 179,
+    "itemDescription": "Grilled or crispy chicken strips, fresh lettuce, tomatoes, and mayo, wrapped in a tortilla."
+  },
+  {
+    "itemId": 5,
+    "itemName": "Hot Wings",
+    "itemPrice": 99,
+    "itemDescription": "Spicy and crispy chicken wings, available in various quantities."
+  },
+  {
+    "itemId": 6,
+    "itemName": "Mashed Potatoes",
+    "itemPrice": 79,
+    "itemDescription": "Creamy mashed potatoes made with real potatoes, topped with KFC's signature gravy."
+  },
+  {
+    "itemId": 7,
+    "itemName": "Krusher",
+    "itemPrice": 129,
+    "itemDescription": "Refreshing crushed ice beverage available in various flavors like Mango, Strawberry, or Chocolate."
+  }
+]

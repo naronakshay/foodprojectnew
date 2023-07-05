@@ -1,0 +1,44 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Whopper",
+    "itemPrice": 199,
+    "itemDescription": "Signature flame-grilled beef patty, topped with tomatoes, lettuce, onions, pickles, and mayonnaise."
+  },
+  {
+    "itemId": 2,
+    "itemName": "Cheeseburger",
+    "itemPrice": 149,
+    "itemDescription": "Classic burger with a flame-grilled beef patty, cheese, pickles, onions, and ketchup."
+  },
+  {
+    "itemId": 3,
+    "itemName": "Chicken Royale",
+    "itemPrice": 179,
+    "itemDescription": "Tender chicken patty, lettuce, and mayonnaise, served on a sesame seed bun."
+  },
+  {
+    "itemId": 4,
+    "itemName": "BK Veggie",
+    "itemPrice": 129,
+    "itemDescription": "Vegetarian burger with a vegetable patty, lettuce, tomatoes, onions, and ketchup."
+  },
+  {
+    "itemId": 5,
+    "itemName": "Chicken Fries",
+    "itemPrice": 89,
+    "itemDescription": "Crispy and flavorful chicken strips in a fun fries shape, perfect for dipping."
+  },
+  {
+    "itemId": 6,
+    "itemName": "Onion Rings",
+    "itemPrice": 79,
+    "itemDescription": "Crispy golden onion rings, served with a tangy dipping sauce."
+  },
+  {
+    "itemId": 7,
+    "itemName": "Soft Serve Ice Cream",
+    "itemPrice": 49,
+    "itemDescription": "Creamy soft-serve ice cream cone, available in vanilla or chocolate flavor."
+  }
+]

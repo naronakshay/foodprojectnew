@@ -1,0 +1,44 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Idli",
+    "itemPrice": 50,
+    "itemDescription": "Steamed rice and lentil cakes, served with sambar and chutney."
+  },
+  {
+    "itemId": 2,
+    "itemName": "Dosa",
+    "itemPrice": 80,
+    "itemDescription": "Thin crispy pancake made from fermented rice and lentil batter, served with sambar and chutney."
+  },
+  {
+    "itemId": 3,
+    "itemName": "Vada",
+    "itemPrice": 60,
+    "itemDescription": "Deep-fried lentil donut, served with sambar and chutney."
+  },
+  {
+    "itemId": 4,
+    "itemName": "Uttapam",
+    "itemPrice": 70,
+    "itemDescription": "Thick pancake made from fermented rice and lentil batter, topped with vegetables, served with sambar and chutney."
+  },
+  {
+    "itemId": 5,
+    "itemName": "Sambhar",
+    "itemPrice": 30,
+    "itemDescription": "Spiced lentil soup with vegetables."
+  },
+  {
+    "itemId": 6,
+    "itemName": "Coconut Rice",
+    "itemPrice": 90,
+    "itemDescription": "Rice cooked with grated coconut and spices."
+  },
+  {
+    "itemId": 7,
+    "itemName": "Biryani",
+    "itemPrice": 150,
+    "itemDescription": "Aromatic rice dish cooked with basmati rice, spices, and meat or vegetables."
+  }
+]

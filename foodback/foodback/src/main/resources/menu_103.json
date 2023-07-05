@@ -1,0 +1,44 @@
+[
+  {
+    "itemId": 1,
+    "itemName": "Big Mac",
+    "itemPrice": 199,
+    "itemDescription": "Iconic burger with two beef patties, special sauce, lettuce, cheese, pickles, and onions on a sesame seed bun."
+  },
+  {
+    "itemId": 2,
+    "itemName": "McChicken",
+    "itemPrice": 149,
+    "itemDescription": "Delicious chicken patty, lettuce, mayonnaise, and cheese, served on a sesame seed bun."
+  },
+  {
+    "itemId": 3,
+    "itemName": "Filet-O-Fish",
+    "itemPrice": 179,
+    "itemDescription": "Breaded fish fillet, tartar sauce, and melted cheese, served on a steamed bun."
+  },
+  {
+    "itemId": 4,
+    "itemName": "McVeggie",
+    "itemPrice": 129,
+    "itemDescription": "Vegetarian burger with a vegetable patty, lettuce, tomatoes, onions, and tangy sauce."
+  },
+  {
+    "itemId": 5,
+    "itemName": "French Fries",
+    "itemPrice": 99,
+    "itemDescription": "Crispy golden fries, perfect as a side or snack."
+  },
+  {
+    "itemId": 6,
+    "itemName": "Chicken McNuggets",
+    "itemPrice": 149,
+    "itemDescription": "Tender and juicy chicken nuggets, available in various quantities."
+  },
+  {
+    "itemId": 7,
+    "itemName": "McFlurry",
+    "itemPrice": 79,
+    "itemDescription": "Creamy soft-serve ice cream blended with your choice of toppings, such as Oreo or M&M's."
+  }
+]
